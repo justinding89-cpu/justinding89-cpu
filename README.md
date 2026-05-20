@@ -265,5 +265,5 @@
 
 ## 📫 联系方式 | Contact
 
-📧 Email: [ZIJUN008@e.ntu.edu.sg](mailto:ZIJUN008@e.ntu.edu.sg)  
+📧 Email: [840029837@qq.com](mailto:840029837@qq.com)  
 🐙 GitHub: [@justinding89](https://github.com/justinding89)
