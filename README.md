@@ -17,36 +17,62 @@
 
 <div align="center">
 
-<table width="85%" align="center">
+<table width="90%" align="center">
 <tr>
 <td width="50%" valign="top" align="left">
 
 ## 🧑‍💻 关于我
 
-🎓 本科就读于南京农业大学计算机科学与技术专业  
-
-🎓 现就读于南洋理工大学信号处理与机器学习硕士项目  
-
-🧠 关注生成式人工智能、机器学习与大语言模型应用  
-
-👁️ 感兴趣方向包括计算机视觉、多模态理解与智能体系统  
-
-🚀 致力于探索 AI 技术在内容生成、视觉理解与实际场景中的工程化应用  
+<table>
+<tr>
+<td width="32px" valign="top">🎓</td>
+<td><b>本科：</b>南京农业大学，计算机科学与技术专业</td>
+</tr>
+<tr>
+<td width="32px" valign="top">🎓</td>
+<td><b>硕士：</b>南洋理工大学，信号处理与机器学习方向</td>
+</tr>
+<tr>
+<td width="32px" valign="top">🧠</td>
+<td><b>研究方向：</b>生成式人工智能、机器学习与大语言模型</td>
+</tr>
+<tr>
+<td width="32px" valign="top">👁️</td>
+<td><b>兴趣领域：</b>计算机视觉、多模态理解与智能体系统</td>
+</tr>
+<tr>
+<td width="32px" valign="top">🚀</td>
+<td><b>应用探索：</b>内容生成、视觉理解与 AI 工程化应用</td>
+</tr>
+</table>
 
 </td>
 <td width="50%" valign="top" align="left">
 
 ## 🧑‍💻 About Me
 
-🎓 B.Sc. in Computer Science and Technology, Nanjing Agricultural University  
-
-🎓 M.Sc. in Signal Processing and Machine Learning, Nanyang Technological University  
-
-🧠 Interested in Generative AI, Machine Learning and Large Language Models  
-
-👁️ Focused on Computer Vision, Multimodal Understanding and Agentic AI Systems  
-
-🚀 Exploring practical AI applications in content generation, visual understanding and real-world scenarios  
+<table>
+<tr>
+<td width="32px" valign="top">🎓</td>
+<td><b>B.Sc.:</b> Computer Science and Technology, Nanjing Agricultural University</td>
+</tr>
+<tr>
+<td width="32px" valign="top">🎓</td>
+<td><b>M.Sc.:</b> Signal Processing and Machine Learning, Nanyang Technological University</td>
+</tr>
+<tr>
+<td width="32px" valign="top">🧠</td>
+<td><b>Research:</b> Generative AI, Machine Learning and Large Language Models</td>
+</tr>
+<tr>
+<td width="32px" valign="top">👁️</td>
+<td><b>Interests:</b> Computer Vision, Multimodal Understanding and Agentic AI Systems</td>
+</tr>
+<tr>
+<td width="32px" valign="top">🚀</td>
+<td><b>Applications:</b> Content Generation, Visual Understanding and AI Engineering</td>
+</tr>
+</table>
 
 </td>
 </tr>
@@ -56,26 +82,72 @@
 
 ## 🔬 研究兴趣
 
-- 🧠 生成式人工智能 / Generative AI
-- 🤖 机器学习 / Machine Learning
-- 👁️ 计算机视觉 / Computer Vision
-- 💬 大语言模型 / Large Language Models
-- 🕹️ AI Agent / 智能体系统
-- 🧩 多模态学习 / Multimodal Learning
-- 🎬 扩散模型 / Diffusion Models
+<table>
+<tr>
+<td width="32px" valign="top">🧠</td>
+<td>生成式人工智能 / Generative AI</td>
+</tr>
+<tr>
+<td width="32px" valign="top">🤖</td>
+<td>机器学习 / Machine Learning</td>
+</tr>
+<tr>
+<td width="32px" valign="top">👁️</td>
+<td>计算机视觉 / Computer Vision</td>
+</tr>
+<tr>
+<td width="32px" valign="top">💬</td>
+<td>大语言模型 / Large Language Models</td>
+</tr>
+<tr>
+<td width="32px" valign="top">🕹️</td>
+<td>AI Agent / 智能体系统</td>
+</tr>
+<tr>
+<td width="32px" valign="top">🧩</td>
+<td>多模态学习 / Multimodal Learning</td>
+</tr>
+<tr>
+<td width="32px" valign="top">🎬</td>
+<td>扩散模型 / Diffusion Models</td>
+</tr>
+</table>
 
 </td>
 <td width="50%" valign="top" align="left">
 
 ## 🔬 Research Interests
 
-- 🧠 Generative Artificial Intelligence
-- 🤖 Machine Learning
-- 👁️ Computer Vision
-- 💬 Large Language Models
-- 🕹️ AI Agent Systems
-- 🧩 Multimodal Learning
-- 🎬 Diffusion Models
+<table>
+<tr>
+<td width="32px" valign="top">🧠</td>
+<td>Generative Artificial Intelligence</td>
+</tr>
+<tr>
+<td width="32px" valign="top">🤖</td>
+<td>Machine Learning</td>
+</tr>
+<tr>
+<td width="32px" valign="top">👁️</td>
+<td>Computer Vision</td>
+</tr>
+<tr>
+<td width="32px" valign="top">💬</td>
+<td>Large Language Models</td>
+</tr>
+<tr>
+<td width="32px" valign="top">🕹️</td>
+<td>AI Agent Systems</td>
+</tr>
+<tr>
+<td width="32px" valign="top">🧩</td>
+<td>Multimodal Learning</td>
+</tr>
+<tr>
+<td width="32px" valign="top">🎬</td>
+<td>Diffusion Models</td>
+</tr>
+</table>
 
 </td>
 </tr>
@@ -102,23 +174,72 @@
 
 ## 📌 项目方向 | Project Areas
 
-### 🧠 Generative AI & Deep Learning
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 古诗词自动生成
 
 - 基于深度学习的古诗词自动生成系统  
 - 利用神经网络模型学习古诗词语义、韵律与风格特征  
 - 实现面向文本内容生成的智能创作与语言建模应用  
 
-### 🎬 Diffusion-based Video Generation
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Classical Poetry Generation
+
+- Automatic classical Chinese poetry generation based on deep learning  
+- Learning semantic, rhythmic and stylistic features of poetry  
+- Exploring intelligent writing and language modeling for text generation  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 扩散模型视频生成
 
 - 基于扩散模型的视频自动生成系统  
 - 支持通过输入文本描述词生成相应的视频内容  
 - 探索 Text-to-Video 生成、多模态语义理解与视觉内容合成  
 
-### 👁️ Computer Vision
+</td>
+<td width="50%" valign="top">
+
+### 🎬 Diffusion-based Video Generation
+
+- Automatic video generation system based on diffusion models  
+- Generating video content from text prompts and descriptions  
+- Exploring Text-to-Video generation, multimodal understanding and visual synthesis  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 👁️ 计算机视觉
 
 - 图像分类、目标检测与视觉识别任务  
 - 基于深度学习的图像特征提取与视觉感知  
 - 多模态视觉语言模型相关应用探索  
+
+</td>
+<td width="50%" valign="top">
+
+### 👁️ Computer Vision
+
+- Image classification, object detection and visual recognition  
+- Deep learning-based image feature extraction and visual perception  
+- Exploration of multimodal vision-language model applications  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🕹️ AI Agent
 
@@ -126,19 +247,21 @@
 - LLM + Tools 的自动化工作流构建  
 - 多步骤推理、任务规划与信息检索应用  
 
+</td>
+<td width="50%" valign="top">
+
+### 🕹️ AI Agent
+
+- Designing agentic AI systems for practical tasks  
+- Building automated workflows with LLMs and external tools  
+- Applying multi-step reasoning, task planning and information retrieval  
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=justinding89&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinding89&layout=compact" />
-</p>
-
----
 
 ## 📫 联系方式 | Contact
 
