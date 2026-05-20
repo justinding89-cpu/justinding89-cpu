@@ -262,17 +262,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=justinding89&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinding89&layout=compact" />
-</p>
-
----
 
 ## 📫 联系方式 | Contact
 
