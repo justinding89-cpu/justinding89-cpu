@@ -5,13 +5,10 @@
 </h3>
 
 <p align="center">
-  <a href="mailto:你的邮箱">
+  <a href="mailto:ZIJUN008@e.ntu.edu.sg">
     <img src="https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="./assets/wechat_qr.jpg">
-    <img src="https://img.shields.io/badge/WeChat-07C160?style=flat&logo=wechat&logoColor=white" />
-  </a>
-  <a href="https://github.com/你的GitHub用户名">
+  <a href="https://github.com/justinding89">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
@@ -26,26 +23,30 @@
 
 ## 🧑‍💻 关于我
 
-🎓 电子信息 / 人工智能相关方向学习者  
+🎓 本科就读于南京农业大学计算机科学与技术专业  
+
+🎓 现就读于南洋理工大学信号处理与机器学习硕士项目  
 
 🧠 关注生成式人工智能、机器学习与大语言模型应用  
 
 👁️ 感兴趣方向包括计算机视觉、多模态理解与智能体系统  
 
-🚀 致力于探索 AI 技术在实际场景中的工程化应用  
+🚀 致力于探索 AI 技术在内容生成、视觉理解与实际场景中的工程化应用  
 
 </td>
 <td width="50%" valign="top" align="left">
 
 ## 🧑‍💻 About Me
 
-🎓 Student in Electronic Information / Artificial Intelligence related fields  
+🎓 B.Sc. in Computer Science and Technology, Nanjing Agricultural University  
+
+🎓 M.Sc. in Signal Processing and Machine Learning, Nanyang Technological University  
 
 🧠 Interested in Generative AI, Machine Learning and Large Language Models  
 
 👁️ Focused on Computer Vision, Multimodal Understanding and Agentic AI Systems  
 
-🚀 Exploring practical and engineering-oriented applications of AI technologies  
+🚀 Exploring practical AI applications in content generation, visual understanding and real-world scenarios  
 
 </td>
 </tr>
@@ -61,6 +62,7 @@
 - 💬 大语言模型 / Large Language Models
 - 🕹️ AI Agent / 智能体系统
 - 🧩 多模态学习 / Multimodal Learning
+- 🎬 扩散模型 / Diffusion Models
 
 </td>
 <td width="50%" valign="top" align="left">
@@ -73,6 +75,7 @@
 - 💬 Large Language Models
 - 🕹️ AI Agent Systems
 - 🧩 Multimodal Learning
+- 🎬 Diffusion Models
 
 </td>
 </tr>
@@ -99,11 +102,17 @@
 
 ## 📌 项目方向 | Project Areas
 
-### 🧠 Generative AI & LLM
+### 🧠 Generative AI & Deep Learning
 
-- 大语言模型应用开发与提示词工程  
-- 基于 LLM 的智能问答、文本生成与知识理解  
-- 探索 RAG、Agent 工作流与多工具调用系统  
+- 基于深度学习的古诗词自动生成系统  
+- 利用神经网络模型学习古诗词语义、韵律与风格特征  
+- 实现面向文本内容生成的智能创作与语言建模应用  
+
+### 🎬 Diffusion-based Video Generation
+
+- 基于扩散模型的视频自动生成系统  
+- 支持通过输入文本描述词生成相应的视频内容  
+- 探索 Text-to-Video 生成、多模态语义理解与视觉内容合成  
 
 ### 👁️ Computer Vision
 
@@ -122,17 +131,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=justinding89&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinding89&layout=compact" />
 </p>
 
 ---
 
 ## 📫 联系方式 | Contact
 
-📧 Email: [你的邮箱](mailto:你的邮箱)  
-💬 WeChat: 你的微信号 ｜ [点击查看二维码 / QR Code](./assets/wechat_qr.jpg)  
-🐙 GitHub: [@你的GitHub用户名](https://github.com/你的GitHub用户名)
+📧 Email: [ZIJUN008@e.ntu.edu.sg](mailto:ZIJUN008@e.ntu.edu.sg)  
+🐙 GitHub: [@justinding89](https://github.com/justinding89)
