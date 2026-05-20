@@ -1,4 +1,4 @@
-<h1 align="center">👋 你好，我是丁 | Hi, I'm Justin Ding</h1>
+<h1 align="center">👋 你好，我是Samuel | Hi, I'm Samuel</h1>
 
 <h3 align="center">
   🧠 生成式人工智能 / Generative AI · 🤖 机器学习 / Machine Learning · 👁️ 计算机视觉 / Computer Vision · 💬 大语言模型 / LLM · 🕹️ AI Agent
